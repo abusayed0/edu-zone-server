@@ -1,102 +1,96 @@
 [
     {
         "courseId": "01",
-        "category": "Academic",
         "courseTropic": "Hsc English",
         "title": "Hsc academic full engilsh  basic to pro.",
         "totalPurchase": 8854,
         "price": 2000,
         "duration": "8 month",
         "imgUrl": "https://images.unsplash.com/photo-1590650213165-c1fef80648c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "description": "This is our hsc english first and second paper academic courde.We believe this course will be enough for your hsc english preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "description": "This is our hsc english first and second paper academic course.We believe this course will be enough for your hsc english preparation.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "70+ live class.",
             "Group support.",
-            "Quiz on every chapter.",
+            "Chapter wise quiz.",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "02",
-        "category": "Academic",
         "courseTropic": "Hsc Physics",
         "title": "Hsc academic full physics basic to pro.",
         "totalPurchase": 9054,
         "price": 4000,
         "duration": "12 month",
         "imgUrl": "https://images.unsplash.com/photo-1543269664-76bc3997d9ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "description": "This is our hsc physics first and second paper academic courde.We believe this course will be enough for your hsc physics preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "description": "This is our hsc physics first and second paper academic course.We believe this course will be enough for your hsc physics preparation.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "70+ live class.",
             "Group support.",
-            "Quiz on every chapter",
+            "Chapter wise quiz",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "03",
-        "category": "Academic",
         "courseTropic": "Hsc Highter Math",
         "title": "Hsc academic full higher math basic to pro.",
         "totalPurchase": 6054,
         "price": 4500,
         "duration": "10 month",
         "imgUrl": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "description": "This is our hsc highter math first and second paper academic courde.We believe this course will be enough for your hsc higher math preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "description": "This is our hsc highter math first and second paper academic course.We believe this course will be enough for your hsc higher math preparation.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "70+ live class",
             "Group support.",
-            "Quiz on every chapter.",
+            "Chapter wise quiz.",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "04",
-        "category": "Academic",
         "courseTropic": "Hsc Chemistry",
         "title": "Hsc academic full chemistry basic to pro.",
         "totalPurchase": 9054,
         "price": 3500,
         "duration": "10 month",
         "imgUrl": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
-        "description": "This is our hsc chemistry first and second paper academic courde.We believe this course will be enough for your hsc chemistry preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "description": "This is our hsc chemistry first and second paper academic course.We believe this course will be enough for your hsc chemistry preparation.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "70+ live class.",
             "Group support.",
-            "Quiz on every chapter.",
+            "Chapter wise quiz.",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "05",
-        "category": "Academic",
         "courseTropic": "Hsc Biology",
         "title": "Hsc academic full biology basic to pro.",
         "totalPurchase": 10054,
         "price": 3200,
         "duration": "9 month",
         "imgUrl": "https://images.unsplash.com/photo-1573496799652-408c2ac9fe98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
-        "description": "This is our hsc biology first and second paper academic courde.We believe this course will be enough for your hsc biology preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "description": "This is our hsc biology first and second paper academic course.We believe this course will be enough for your hsc biology preparation.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "70+ live class.",
             "Group support.",
-            "Quiz on every chapter.",
+            "Chapter wise quiz.",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "06",
-        "category": "Academic",
         "courseTropic": "Hsc Science",
         "title": "Hsc academic science all subject.",
         "totalPurchase": 19054,
@@ -104,18 +98,17 @@
         "duration": "13 month",
         "imgUrl": "https://media.istockphoto.com/id/842865952/photo/successful-business-team.jpg?b=1&s=170667a&w=0&k=20&c=FvrRa3HSqoCtZpyIxs_6qTnEcywiAB4rpzH4tixeBpI=",
         "description": "This is our hsc science all subject academic course.We believe this course will be enough for your hsc science all subject preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "180+ live class.",
             "Group support.",
-            "Quiz on every chapter.",
+            "Chapter wise quiz.",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "07",
-        "category": "Academic",
         "courseTropic": "Hsc Arts",
         "title": "Hsc academic arts all subject.",
         "totalPurchase": 29054,
@@ -123,18 +116,17 @@
         "duration": "11 month",
         "imgUrl": "https://media.istockphoto.com/id/1085389362/photo/business-people-working-in-the-office.jpg?b=1&s=170667a&w=0&k=20&c=q4rrhbyIVeMXL7A4vJOCw2owEpyxaPYBKvrXhhAma34=",
         "description": "This is our hsc arts all subject academic course.We believe this course will be enough for your hsc arts all subject preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "100+ live class.",
             "Group support.",
-            "Quiz on every chapter",
+            "Chapter wise quiz",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "08",
-        "category": "Academic",
         "courseTropic": "Ssc Science",
         "title": "Ssc academic science all subject.",
         "totalPurchase": 5054,
@@ -142,18 +134,17 @@
         "duration": "8 month",
         "imgUrl": "https://media.istockphoto.com/id/954307646/photo/group-analysis-of-digital-data.jpg?b=1&s=170667a&w=0&k=20&c=6Da32lM4D1LzRnt60udWS3c8_nQWEjPNB-x3XI_STYY=",
         "description": "This is our ssc science all subject academic course.We believe this course will be enough for your ssc science all subject preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "130+ live class.",
             "Group support.",
-            "Quiz on every chapter",
+            "Chapter wise quiz",
             "Weekly exam.",
             "Board question solve."
         ]
     },
     {
         "courseId": "09",
-        "category": "Academic",
         "courseTropic": "Ssc Arts",
         "title": "Ssc academic arts all subject.",
         "totalPurchase": 8954,
@@ -161,11 +152,11 @@
         "duration": "7 month",
         "imgUrl": "https://media.istockphoto.com/id/1159591390/photo/business-people-sitting-at-desk-discussing.jpg?b=1&s=170667a&w=0&k=20&c=xaFEPXYnCxEGqpEsLkn9Oq6IObEaR4ZQI_RnslU6VOM=",
         "description": "This is our ssc science all subject academic course.We believe this course will be enough for your ssc arts all subject preparation.",
-        "advantage": [
-            "Dedicative recorded class on every chapter.",
+        "advantages": [
+            "Dedicated recorded class on every chapter.",
             "120+ live class.",
             "Group support.",
-            "Quiz on every chapter",
+            "Chapter wise quiz",
             "Weekly exam.",
             "Board question solve."
         ]

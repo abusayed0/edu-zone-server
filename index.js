@@ -18,8 +18,14 @@ app.get("/courses",(req,res)=>{
 app.get("/courses/:id",(req,res)=>{
     const id = req.params.id;
     const result = courses.find(course=>course.courseId===id)
-    console.log(result)
     res.send(result)
+})
+
+app.get("/checkout/:id",(req,res)=>{
+    const id = req.params.id;
+    const result = courses.find(course=>course.courseId === id);
+    console.log(result)
+    res.send(result);
 })
 
 
