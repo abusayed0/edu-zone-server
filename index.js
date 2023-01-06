@@ -10,9 +10,18 @@ app.get("/",(req,res)=>{
 })
 
 const courses = require("./data/courses/coureses.json")
+
 app.get("/courses",(req,res)=>{
     res.send(courses)
 })
+
+app.get("/courses/:id",(req,res)=>{
+    const id = req.params.id;
+    const result = courses.find(course=>course.courseId===id)
+    console.log(result)
+    res.send(result)
+})
+
 
 app.listen(port,()=>{
     console.log(`server is running on ${port}`)
